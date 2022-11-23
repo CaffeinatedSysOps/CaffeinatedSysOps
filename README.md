@@ -6,7 +6,7 @@
 - https://chasewillits.com
 
 I am a system administrator with full domain knowledge for Microsoft Windows Ecosystems 
-with a focus Microsoft Endpoint Configuration Manager. 
+with a focus in Microsoft Endpoint Configuration Manager and related vulnerability remediation efforts. 
 I am skilled with Linux and MacOS adminstration.
 //todo
 <!---
